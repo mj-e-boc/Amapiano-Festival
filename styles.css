@@ -75,7 +75,8 @@ body {
   display: flex;
   justify-content: flex-end;
   margin-right: 14%;
-  gap: 2%;
+  align-items: center;
+  gap: 10%;
   font-family: sans-serif, mjaynormal;
 }
 
@@ -513,7 +514,9 @@ a :hover {
   }
 
   .darkheader {
-    display: block;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
   }
 
   .description {
@@ -549,7 +552,7 @@ a :hover {
   }
 
   .main {
-    padding: 0 15% 20% 15%;
+    padding: 0 15% 5% 15%;
   }
 
   .mainul {
@@ -626,7 +629,7 @@ a :hover {
   .correctingbutton {
     display: flex;
     justify-content: center;
-    margin-top: 10%;
+    margin-top: 0;
     cursor: pointer;
     font-family: sans-serif, mjaynormal;
   }
