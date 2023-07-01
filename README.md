@@ -54,9 +54,8 @@ Built with HTML, CSS and Javascript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://mj-e-boc.github.io/index.html)
 
-<!-- update the above -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +113,7 @@ If you like this project feel free to get in touch with me via a message here or
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the microverse Alumni that keep inspiring me to code.
+I would like to thank Cindy shin for designing the template I used to make this website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
